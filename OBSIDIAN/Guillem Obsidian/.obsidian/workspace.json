@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teclat Custom/Peces/MicroControllers.md",
+                "file": "Teclat Custom/Preus.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teclat Custom/Peces/MicroControllers.md",
+                "file": "Teclat Custom/Preus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teclat Custom/Peces/MicroControllers.md",
+                "file": "Teclat Custom/Preus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teclat Custom/Peces/MicroControllers.md"
+                "file": "Teclat Custom/Preus.md"
               }
             }
           }
@@ -197,9 +197,9 @@
   },
   "active": "c0e49fb4d018461c",
   "lastOpenFiles": [
+    "Teclat Custom/Peces/MicroControllers.md",
     "Teclat Custom/Peces",
     "Teclat Custom/Preus.md",
-    "Teclat Custom/Peces/MicroControllers.md",
     "Teclat Custom/Documentació Important/Nice!view.md",
     "Teclat Custom/Untitled 1.md",
     "Teclat Custom/Documentació Important",
