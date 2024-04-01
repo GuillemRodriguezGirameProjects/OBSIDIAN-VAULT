@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"33d1ff947fb5b02d","x":-320,"y":-860,"width":250,"height":60,"type":"text","text":"Client"},
+		{"id":"3bbce6061bf79381","x":-335,"y":-1020,"width":280,"height":50,"color":"3","type":"text","text":"Otorga Pista i Contrassenya"},
+		{"id":"5837d8501b46857d","x":-320,"y":-700,"width":250,"height":60,"type":"text","text":"Servidor"},
+		{"id":"4ab497cee4700281","type":"text","text":"BBDD","x":-320,"y":-540,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"f1efe44aad9b2b7a","fromNode":"3bbce6061bf79381","fromSide":"bottom","toNode":"33d1ff947fb5b02d","toSide":"top"},
+		{"id":"0a0c75379c377d56","fromNode":"33d1ff947fb5b02d","fromSide":"bottom","toNode":"5837d8501b46857d","toSide":"top","label":"S'envia al Servidor"},
+		{"id":"11d557c06f1ad817","fromNode":"5837d8501b46857d","fromSide":"bottom","toNode":"4ab497cee4700281","toSide":"top","label":"Es fa un Hash amb Salt "}
+	]
+}

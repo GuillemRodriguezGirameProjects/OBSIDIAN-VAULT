@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"6019ad3fd92e8578","x":-376,"y":-323,"width":250,"height":60,"type":"text","text":"Pista. Ex: RIOT"},
+		{"id":"d22feb5fd4c0d005","type":"text","text":"SystemClock","x":-40,"y":-323,"width":250,"height":60},
+		{"id":"7716c60a2dbed4d5","x":-376,"y":-199,"width":250,"height":60,"type":"text","text":"HASH = Hash(RIOT)"},
+		{"id":"37bd3798b706e31c","x":-198,"y":-72,"width":250,"height":60,"type":"text","text":"NEWHASH = Salt(HASH, SystemClock)"},
+		{"id":"699b4a84e7f6c60b","x":-182,"y":40,"width":218,"height":193,"type":"text","text":"FINALHASH = (HASH & SystemClock) << Size_of(SystemClock)\n\n+SystemClock"}
+	],
+	"edges":[
+		{"id":"337b3641cf6dd527","fromNode":"6019ad3fd92e8578","fromSide":"bottom","toNode":"7716c60a2dbed4d5","toSide":"top"},
+		{"id":"70e93801e983543d","fromNode":"7716c60a2dbed4d5","fromSide":"bottom","toNode":"37bd3798b706e31c","toSide":"top"},
+		{"id":"65b0e179be291abf","fromNode":"d22feb5fd4c0d005","fromSide":"bottom","toNode":"37bd3798b706e31c","toSide":"top"},
+		{"id":"ea513eabb08b394a","fromNode":"37bd3798b706e31c","fromSide":"bottom","toNode":"699b4a84e7f6c60b","toSide":"top"}
+	]
+}

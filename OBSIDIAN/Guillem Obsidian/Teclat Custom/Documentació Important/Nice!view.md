@@ -1,0 +1,2 @@
+Aquí podem trobar el que s'ha de fer per poder utilitzar el Nice!View en tot tipus de Shield. Jo segurament em faci un Shield Custom, així que m'interessa guardar-me aquesta Documentació.
+https://nicekeyboards.com/docs/nice-view/getting-started

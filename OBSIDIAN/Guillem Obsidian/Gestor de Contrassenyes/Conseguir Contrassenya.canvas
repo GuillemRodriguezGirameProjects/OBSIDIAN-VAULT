@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"3bbce6061bf79381","type":"text","text":"Client Otorga Pista","x":-335,"y":-1020,"width":280,"height":50,"color":"3"},
+		{"id":"39d2176906bf1893","x":-320,"y":-920,"width":250,"height":50,"type":"text","text":"Client"},
+		{"id":"bc57530417cf2b1c","x":-320,"y":-800,"width":250,"height":60,"type":"text","text":"Servidor"},
+		{"id":"2a624a42c36657a2","x":-320,"y":-680,"width":250,"height":60,"type":"text","text":"BBDD"},
+		{"id":"0adeb10e9c8b758b","x":-320,"y":-560,"width":250,"height":60,"type":"text","text":"Servidor"},
+		{"id":"9c7c823ae2828b9e","x":-320,"y":-420,"width":250,"height":60,"type":"text","text":"Client Rep Contrassenya "}
+	],
+	"edges":[
+		{"id":"d3b869641338fb53","fromNode":"3bbce6061bf79381","fromSide":"bottom","toNode":"39d2176906bf1893","toSide":"top"},
+		{"id":"22100520f01be9d0","fromNode":"39d2176906bf1893","fromSide":"bottom","toNode":"bc57530417cf2b1c","toSide":"top"},
+		{"id":"5173785b8e82e047","fromNode":"bc57530417cf2b1c","fromSide":"bottom","toNode":"2a624a42c36657a2","toSide":"top"},
+		{"id":"09fcd851f7443820","fromNode":"2a624a42c36657a2","fromSide":"bottom","toNode":"0adeb10e9c8b758b","toSide":"top"},
+		{"id":"942101f75975b7cb","fromNode":"0adeb10e9c8b758b","fromSide":"bottom","toNode":"9c7c823ae2828b9e","toSide":"top"}
+	]
+}
