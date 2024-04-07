@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teclat Custom/Preus.md",
+                "file": "Teclat Custom/Documentació Important/Disseny del PCB.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teclat Custom/Preus.md",
+                "file": "Teclat Custom/Documentació Important/Disseny del PCB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teclat Custom/Preus.md",
+                "file": "Teclat Custom/Documentació Important/Disseny del PCB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teclat Custom/Preus.md"
+                "file": "Teclat Custom/Documentació Important/Disseny del PCB.md"
               }
             }
           }
@@ -197,10 +197,11 @@
   },
   "active": "c0e49fb4d018461c",
   "lastOpenFiles": [
-    "Teclat Custom/Peces/MicroControllers.md",
-    "Teclat Custom/Peces",
     "Teclat Custom/Preus.md",
     "Teclat Custom/Documentació Important/Nice!view.md",
+    "Teclat Custom/Documentació Important/Disseny del PCB.md",
+    "Teclat Custom/Peces/MicroControllers.md",
+    "Teclat Custom/Peces",
     "Teclat Custom/Untitled 1.md",
     "Teclat Custom/Documentació Important",
     "Gestor de Contrassenyes/Descripció del funcionament.md",
