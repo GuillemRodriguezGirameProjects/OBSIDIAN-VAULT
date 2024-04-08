@@ -26,7 +26,10 @@ En quant al disseny del PCB s'ha de tenir en compte s'han de tenir en considerac
 
 **Pins de la Bateria:** Per poder reutilitzar la Bateria necessitem connectar-la amb uns pins al PCB. Aquests poden estar en qualsevol lloc del PCB però s'ha de tenir en compte quin Pin es connectará al Positiu de la Batería i quin al Negatiu. 
 
+
 ### OPCIONALS
-Pantalla OLED: Es pot instal·lar una pantalla OLED per poder veure informació del MicroController, com la connexió actual, la Layer, el percentatge de bateria i més.
+---
+
+**Pantalla OLED:** Es pot instal·lar una pantalla OLED per poder veure informació del MicroController, com la connexió actual, la Layer, el percentatge de bateria i més.
 	La Pantalla Oled ha de connectar-se en la sortida de Voltatge del MicroController per poder funcionar.
 	Després la info del MicroController s'envia amb dos dels pins que es triin del Controller. Aquests pins té pinta que s'han de triar utilitzant el Firmware. Així que en el meu cas ZMK.
