@@ -1,64 +1,52 @@
 {
   "main": {
-    "id": "0e203fca8471688f",
+    "id": "8f8eaf87b5bbadf7",
     "type": "split",
     "children": [
       {
-        "id": "032889ce9c20278d",
+        "id": "51407eff29f89e68",
         "type": "tabs",
         "children": [
           {
-            "id": "7bbfaaa2e5d6e6ee",
+            "id": "fe2196ab361052f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gestor de Contrassenyes/Descripció del funcionament.md",
+                "file": "Documentació Important/Footprints.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4d9645dd6c3c66d5",
+            "id": "b53def80edb52f91",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gestor de Contrassenyes/Hash Segur.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c0e49fb4d018461c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-03-20.md",
+                "file": "Pinouts.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "4119dbab7e7ec41e",
+    "id": "44f2677334472182",
     "type": "split",
     "children": [
       {
-        "id": "4e2ec586e2259131",
+        "id": "6bc0e35a99c5e3b0",
         "type": "tabs",
         "children": [
           {
-            "id": "4cc7540815847226",
+            "id": "0989fe5671d745bf",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -68,7 +56,7 @@
             }
           },
           {
-            "id": "21736845f2387b43",
+            "id": "353d2eced35f8302",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -83,7 +71,7 @@
             }
           },
           {
-            "id": "88fabc468b475ad7",
+            "id": "18ed5ce23a371531",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -94,23 +82,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "054532430a12a3f3",
+    "id": "f69f5d7d80e90611",
     "type": "split",
     "children": [
       {
-        "id": "6093b72757f9b6fd",
+        "id": "ef6494826533cf9d",
         "type": "tabs",
         "children": [
           {
-            "id": "60724c7993d06836",
+            "id": "6b3d9dd71cf814f5",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-03-20.md",
+                "file": "Pinouts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,19 +110,19 @@
             }
           },
           {
-            "id": "bfa2b9a4bab6f1e8",
+            "id": "e9a7941160007ccb",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-03-20.md",
+                "file": "Pinouts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "f85107a5c9ddffa2",
+            "id": "076b6d25830c7e7c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -145,12 +133,12 @@
             }
           },
           {
-            "id": "941e4a9a2fceba2e",
+            "id": "752678dd6ec863cd",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-03-20.md"
+                "file": "Pinouts.md"
               }
             }
           }
@@ -171,27 +159,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c0e49fb4d018461c",
+  "active": "b53def80edb52f91",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Teclat Custom/Documentació Important/Llibreria Footprints.md",
-    "Teclat Custom/Documentació Important/Disseny del PCB.md",
-    "Teclat Custom/Documentació Important/Nice!view.md",
-    "Teclat Custom/Documentació Important/Videos Referència.md",
-    "Teclat Custom/Preus.md",
-    "Teclat Custom/Peces/MicroControllers.md",
-    "Teclat Custom/Peces",
-    "Teclat Custom/Untitled 1.md",
-    "Teclat Custom/Documentació Important",
-    "Gestor de Contrassenyes/Descripció del funcionament.md",
-    "Teclat Custom",
-    "Gestor de Contrassenyes/Conseguir Contrassenya.canvas",
-    "Gestor de Contrassenyes/Primera Idea del Hash de la Contrassenya.canvas",
-    "Gestor de Contrassenyes/Hash Segur.md",
-    "Gestor de Contrassenyes/Afegir.canvas",
-    "Gestor de Contrassenyes",
-    "2024-03-20.md",
-    "Welcome.md",
-    "create a link.md"
+    "Documentació Important/Disseny del PCB.md",
+    "Documentació Important/Footprints.md",
+    "Documentació Important/Nice!view.md",
+    "Documentació Important/Videos Referència.md",
+    "Peces/MicroControllers.md",
+    "Pasted image 20240412203420.png",
+    "Pasted image 20240412212630.png",
+    "Preus.md",
+    "Pinouts.md"
   ]
 }
